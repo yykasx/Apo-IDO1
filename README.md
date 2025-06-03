@@ -1,5 +1,5 @@
 # Apo-IDO1
-## Structure and Data Availability
+Structure and Data Availability
 
 All structures reported in the manuscript (Identification of a novel core structure of Apo-IDO1 Inhibitors through virtual screening and preliminary hit optimization) are available in this repository.
 
