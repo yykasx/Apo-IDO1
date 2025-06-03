@@ -1,0 +1,11 @@
+﻿PDB id,inhibitor_smile
+6X5Y,Cc1nccc(n1)N1CCCc2nc(ccc12)C1(CC1)NC(=O)c1ccc(F)cc1
+7M63,CC@HF)C(=O)NC5=CC=C(C=C5)Cl
+8ABX,CCOC(=O)C1=CCC@@S(=O)(=O)C2=CC=C(C=C2)C)(C3=CC4=CC=CC=C4N3C)C(=O)OC
+6V52,CCCNC(=O)C1(CCC1)c1ccc(NC(=O)c2cccc(Cl)c2)cc1
+6WJY,CC@HC12CC(C1)(C2)NC(=O)c1cccc(Cl)c1
+6WPE,Clc1ccc(cc1)C(=O)NCc1ccc2N(CCCc2c1)C(=O)c1cccc(Cl)c1
+7RRB,Fc1ccc(NC(=O)C2(COC2)c2ccc(cc2)-c2ccc(nc2)C2CC2)cc1
+8FUR,CCCOc1c(CCC)cc(cc1NC(=O)Nc1ccc(C)cc1)-c1ccccc1-c1nnn[nH]1
+6AZV,CC(C)CN(CC(C)C)c1ccc(cc1NC(=O)Nc1ccc(C)cc1)[C@H]1C[C@H]1C(O)=O
+8I7L,CC(C)CN(C1CCCCC1)C2=C(C=C(C=C2)N3C=CC=C3C(=O)O)NC(=O)NC4=C(C=C(C=C4)Cl)F
