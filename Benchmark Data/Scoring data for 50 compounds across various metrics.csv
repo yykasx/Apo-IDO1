@@ -1,4 +1,4 @@
-﻿ID,sample,XP gscore,Binding energy（kcal/mol）,PoseScore,CompScore
+﻿ID,sample,XP_gscore,Binding energy（kcal/mol）,PoseScore,CompScore
 1,inhibitor,-10.35,-46.33,0.98,-2.06
 2,inhibitor,-11.76,-86.37,0.99,-2.98
 3,inhibitor,-10.71,-70.14,1.04,-2.39
